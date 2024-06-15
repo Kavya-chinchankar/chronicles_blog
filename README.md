@@ -114,17 +114,13 @@ This project was created using the following technologies.
  
 
 
+![image](https://github.com/Kavya-chinchankar/chronicles_blog/assets/112461154/23eda276-3cae-49af-b210-8c5b487632fa)
+--- - 
+![image](https://github.com/Kavya-chinchankar/chronicles_blog/assets/112461154/6ac7b2f8-ac5f-435e-a900-51e5a97386ee)
+--- - 
+![image](https://github.com/Kavya-chinchankar/chronicles_blog/assets/112461154/e9954320-6938-404d-a7bc-ca2baa753af5)
 --- - 
 
---- - 
-
---- - 
-
---- - 
-
---- - 
-
---- - 
 
 
 ## Author
